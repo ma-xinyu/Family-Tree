@@ -1,0 +1,13 @@
+release/information.o
+release/main.o
+release/mainwindow.o
+release/mytreewidget.o
+release/mytreewidgetitem.o
+release/result.o
+release/search.o
+release/moc_information.o
+release/moc_mainwindow.o
+release/moc_mytreewidget.o
+release/moc_mytreewidgetitem.o
+release/moc_result.o
+release/moc_search.o

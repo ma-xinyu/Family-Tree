@@ -1,0 +1,13 @@
+debug/information.o
+debug/main.o
+debug/mainwindow.o
+debug/mytreewidget.o
+debug/mytreewidgetitem.o
+debug/result.o
+debug/search.o
+debug/moc_information.o
+debug/moc_mainwindow.o
+debug/moc_mytreewidget.o
+debug/moc_mytreewidgetitem.o
+debug/moc_result.o
+debug/moc_search.o
